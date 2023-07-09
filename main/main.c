@@ -6,7 +6,7 @@
 #include <stdbool.h>
 #include <unistd.h>
 
-/* Scan Example
+/* Scan Example 1
 
    This example code is in the Public Domain (or CC0 licensed, at your option.)
 
